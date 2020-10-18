@@ -1,0 +1,1 @@
+Resolve Pubmed Identifier: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrawaag/WikidataBinders/master?filepath=resolveID.ipynb)
